@@ -1,0 +1,696 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>-9.284001822122713</HistMin>
+        <HistMax>21.03214147056021</HistMax>
+        <BucketCount>656</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|1|1|0|0|0|0|1|0|0|0|1|1|1|0|0|0|0|0|0|1|2|1|0|2|0|0|1|0|1|0|3|1|2|1|0|0|2|1|0|1|1|2|1|0|2|0|0|0|1|0|1|0|1|0|1|0|2|4|0|2|2|1|2|2|2|2|0|2|1|1|1|0|1|2|2|2|4|3|7|0|1|0|2|2|3|3|2|0|1|2|0|2|1|2|2|0|1|3|0|3|0|3|1|4|0|2|3|3|1|4|2|2|2|1|3|6|3|3|0|8|0|3|4|2|2|2|2|0|3|4|2|1|2|3|1|2|5|1|0|3|2|4|1|5|0|0|3|3|3|3|1|3|1|6|1|5|3|3|4|0|1|2|4|2|4|1|2|1|3|3|2|5|2|2|2|3|3|1|0|4|3|4|2|2|4|5|2|0|2|2|1|4|2|3|6|0|3|0|0|0|2|2|3|1|1|1|1|1|0|2|0|2|2|3|3|4|4|2|0|1|0|3|2|2|1|0|2|1|2|0|5|2|2|3|2|3|2|2|3|2|4|3|5|3|1|1|4|2|2|0|2|3|1|1|2|1|3|0|2|4|2|1|3|2|2|1|1|1|0|1|3|2|1|1|1|3|4|1|1|0|0|1|1|1|5|0|2|1|2|1|0|2|2|3|2|1|0|0|2|5|0|0|1|1|2|1|1|0|1|0|3|1|2|0|0|0|0|2|1|0|2|1|1|2|0|1|0|3|0|0|1|1|1|0|1|1|0|1|0|2|2|0|0|1|1|2|1|0|2|0|1|0|3|2|1|3|2|0|0|2|1|1|0|0|3|1|1|1|1|2|4|0|0|0|0|1|1|0|0|0|0|3|0|0|3|2|0|1|0|0|0|1|1|0|3|2|0|0|0|0|0|0|0|0|0|0|1|0|0|1|2|0|0|0|0|0|0|1|0|1|0|0|0|0|0|1|0|0|0|0|0|1|0|0|1|2|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|1|0|0|0|1|0|0|0|0|1|0|1|0|1|0|0|1|1|0|1|1|0|0|0|1|0|1|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">21600 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514440800 sec UTC</MDI>
+      <MDI key="STATISTICS_MAXIMUM">21.009069824219</MDI>
+      <MDI key="STATISTICS_MEAN">3.8337954339748</MDI>
+      <MDI key="STATISTICS_MINIMUM">-9.2609301757812</MDI>
+      <MDI key="STATISTICS_STDDEV">5.2472630715244</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>-14.63928210746951</HistMin>
+        <HistMax>16.72846179496951</HistMax>
+        <BucketCount>656</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|0|0|0|0|1|0|0|0|0|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|2|1|0|0|0|0|1|0|0|0|0|0|0|0|1|0|1|1|0|0|0|0|1|1|1|0|1|1|1|0|0|0|0|0|0|0|0|0|0|0|1|1|0|3|0|0|0|0|2|0|0|0|4|1|0|0|1|0|1|2|0|1|0|2|3|1|1|3|2|0|0|2|1|0|1|0|1|2|0|2|0|0|3|0|0|2|0|0|2|3|2|1|1|0|1|2|2|1|1|0|4|1|2|3|0|1|1|2|0|2|1|1|3|4|0|2|4|2|0|3|1|4|1|0|3|3|4|2|0|1|4|0|1|1|3|3|3|1|0|2|1|5|1|3|2|2|2|3|6|4|4|3|3|3|4|3|5|3|2|3|4|5|1|4|1|4|1|1|3|3|4|3|3|4|5|2|2|1|1|2|5|6|6|3|7|1|5|6|2|4|2|1|5|2|3|1|0|3|8|1|5|6|1|4|3|4|2|2|2|3|4|0|4|1|5|2|4|2|2|4|1|3|3|2|2|8|5|6|4|6|1|3|1|2|2|6|5|2|2|4|2|4|2|1|2|1|1|1|4|2|2|3|2|4|1|0|1|1|3|2|3|1|3|3|1|5|2|4|1|2|0|0|2|1|3|1|6|5|0|0|0|6|2|0|1|1|2|1|0|0|2|1|1|1|0|0|0|2|1|2|0|1|0|1|0|2|0|1|0|0|0|0|2|0|1|0|2|3|1|1|0|1|1|1|1|2|1|0|0|0|1|1|0|0|0|3|1|1|0|1|0|1|1|1|3|2|1|1|1|1|3|1|1|1|0|1|0|1|1|0|1|0|1|0|0|0|1|0|1|1|1|1|0|0|0|0|2|4|0|1|1|0|0|1|1|0|1|1|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|1|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">21600 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514440800 sec UTC</MDI>
+      <MDI key="STATISTICS_MAXIMUM">16.70458984375</MDI>
+      <MDI key="STATISTICS_MEAN">0.98962033155488</MDI>
+      <MDI key="STATISTICS_MINIMUM">-14.61541015625</MDI>
+      <MDI key="STATISTICS_STDDEV">4.4283974829912</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>-9.434933903391768</HistMin>
+        <HistMax>21.60230695026677</HistMax>
+        <BucketCount>656</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|1|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|0|1|0|1|0|1|0|0|1|0|2|0|1|2|0|0|0|0|0|0|0|2|0|0|0|0|0|1|1|1|0|1|2|1|0|0|1|1|2|0|1|3|1|0|1|0|1|0|0|1|0|0|3|1|0|1|2|1|0|1|1|2|1|1|2|2|1|1|1|0|3|3|2|2|0|0|4|2|2|3|2|1|3|2|2|1|0|4|2|1|2|1|1|2|1|6|0|4|1|2|1|6|2|3|3|3|2|5|4|2|4|2|2|2|3|4|6|3|4|2|1|1|1|3|1|3|2|3|4|5|2|1|3|2|2|2|0|2|1|3|4|3|2|2|0|1|1|0|2|1|1|2|1|2|2|1|5|0|1|6|2|1|4|3|2|2|0|3|1|1|0|4|2|4|2|1|3|2|2|1|0|1|1|2|2|0|4|2|1|1|0|1|0|4|1|2|1|2|2|1|2|3|3|1|1|4|1|3|4|0|0|2|3|1|3|7|0|2|2|0|2|0|1|2|3|0|0|1|2|1|4|2|2|4|1|2|0|0|7|1|2|4|2|0|6|1|3|0|4|2|2|0|5|4|1|1|5|2|0|1|1|1|2|2|0|2|2|0|2|1|0|3|3|0|5|3|4|4|0|6|2|2|1|4|8|4|3|1|1|2|2|1|3|2|1|1|0|3|0|3|3|1|4|1|1|3|2|4|1|3|0|0|3|0|2|0|1|1|0|3|3|1|3|1|1|2|2|0|1|0|2|0|0|1|2|1|1|0|1|0|2|2|0|1|0|1|0|0|1|1|0|1|0|1|0|2|0|1|1|2|0|1|0|0|0|4|0|1|0|0|0|1|2|0|1|3|1|0|0|1|0|0|0|1|0|1|1|0|0|0|0|2|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|0|0|0|0|1|1|0|0|1|0|1|0|0|2|0|0|0|1|0|0|0|0|1|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|2|0|0|1|0|1|0|0|0|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|2|0|1|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">43200 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514462400 sec UTC</MDI>
+      <MDI key="STATISTICS_MAXIMUM">21.578686523438</MDI>
+      <MDI key="STATISTICS_MEAN">4.3103328649009</MDI>
+      <MDI key="STATISTICS_MINIMUM">-9.4113134765625</MDI>
+      <MDI key="STATISTICS_STDDEV">5.1623657813343</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="4">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">43200 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514462400 sec UTC</MDI>
+      <MDI key="STATISTICS_MAXIMUM">13.867299804687</MDI>
+      <MDI key="STATISTICS_MEAN">0.60752846322409</MDI>
+      <MDI key="STATISTICS_MINIMUM">-13.262700195312</MDI>
+      <MDI key="STATISTICS_STDDEV">4.7853560068556</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="5">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">64800 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514484000 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="6">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">64800 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514484000 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="7">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">86400 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514505600 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="8">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">86400 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514505600 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="9">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">108000 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514527200 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="10">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">108000 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514527200 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="11">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">129600 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514548800 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="12">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">129600 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514548800 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="13">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">151200 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514570400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="14">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">151200 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514570400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="15">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">172800 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514592000 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="16">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">172800 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514592000 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="17">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">194400 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514613600 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="18">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">194400 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514613600 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="19">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">216000 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514635200 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="20">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">216000 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514635200 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="21">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">237600 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514656800 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="22">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">237600 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514656800 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="23">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">259200 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514678400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="24">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">259200 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514678400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="25">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">280800 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514700000 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="26">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">280800 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514700000 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="27">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">302400 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514721600 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="28">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">302400 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514721600 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="29">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">324000 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514743200 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="30">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">324000 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514743200 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="31">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">345600 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514764800 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="32">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">345600 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514764800 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="33">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">367200 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514786400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="34">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">367200 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514786400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="35">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">388800 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514808000 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="36">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">388800 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514808000 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="37">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">410400 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514829600 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="38">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">410400 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514829600 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="39">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">432000 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514851200 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="40">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">432000 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514851200 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="41">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">453600 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514872800 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="42">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">453600 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514872800 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="43">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">475200 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514894400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="44">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">475200 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514894400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="45">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">496800 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514916000 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="46">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">496800 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514916000 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="47">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">518400 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514937600 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="48">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">518400 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514937600 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="49">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">540000 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514959200 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="50">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">540000 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514959200 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="51">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">561600 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514980800 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="52">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">561600 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1514980800 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="53">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">u-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">UGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">583200 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1515002400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="54">
+    <Description>10[m] HTGL (Specified height level above ground)</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">v-component of wind [m/s]</MDI>
+      <MDI key="GRIB_ELEMENT">VGRD</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">583200 sec</MDI>
+      <MDI key="GRIB_REF_TIME">1514419200 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[m/s]</MDI>
+      <MDI key="GRIB_VALID_TIME">1515002400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
